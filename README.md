@@ -5,7 +5,7 @@ Copyright (c) 2014-2017 Paul Tsochantaris
 
 Parts copyright (c) 2013-2014 HouseTrip Ltd.
 
-Released under the terms of the MIT licence, see the file LICENCE for details.
+Released under the terms of the MIT license, see the file LICENSE.txt for details.
 
 For maintained binaries and/or more info:
 
