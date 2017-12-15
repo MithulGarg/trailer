@@ -1,10 +1,6 @@
 Trailer
 =======
 
-Copyright (c) 2014-2017 Paul Tsochantaris
-
-Parts copyright (c) 2013-2014 HouseTrip Ltd.
-
 For maintained binaries and/or more info:
 
 - [Latest macOS version](http://ptsochantaris.github.io/trailer/)
