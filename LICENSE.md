@@ -1,7 +1,6 @@
 MIT License
 
 Copyright (c) 2014-2017 Paul Tsochantaris
-
 Parts copyright (c) 2013-2014 HouseTrip Ltd.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
