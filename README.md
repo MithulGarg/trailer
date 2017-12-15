@@ -19,4 +19,4 @@ Note: Trailer lists all your [watched repositories](http://github.com/watching).
 
 ## License
 
-Released under the terms of the MIT license, see the [LICENSE](LICENSE) file for license rights and limitations (MIT).
+Released under the terms of the MIT license, see the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
